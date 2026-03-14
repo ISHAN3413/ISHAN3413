@@ -7,11 +7,11 @@
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdpbG04dXV1MHNrZ25iYW1yN3p3YXZqbTZ5OGhkdnRxcHYzY244MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif"/>
 
 <ul>
-<li>🌱 I’m currently learning <b>Kotlin, Workflow Automation</b></li>
+<li>🌱 I’m currently learning: <b>Kotlin & Workflow Automation</b></li>
 
-<li>💬 Ask me about <b>Android Development, Kotlin, DSA</b></li>
+<li>💬 Ask me about: <b>Collaboration and Tech Support</b></li>
 
-<li>📫 Reach me at <b>ishanagarwal3413@gmail.com</b></li>
+<li>📫 Reach me at: <b>ishanagarwal3413@gmail.com</b></li>
 
 <li>📄 My Resume: 
 <a href="https://drive.google.com/file/d/1UM8HbWWQDQVUT6RrnK_RsMiylSDbyJBs/view?usp=drivesdk" target="_blank">
