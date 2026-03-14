@@ -4,7 +4,7 @@
 <h3 align="center">Android Developer building apps with Kotlin and solving DSA problems with C++</h3>
 
 <img align="right" alt="coding" width="380"
-src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdpbG04dXV1MHNrZ25iYW1yN3p3YXZqbTZ5OGhkdnRxcHYzY244MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhhbmQxd3NjMzRrYjUyeW5xODBhdm5nY3FtZWVkNnZ0d3ZpeWVkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)"/>
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhhbmQxd3NjMzRrYjUyeW5xODBhdm5nY3FtZWVkNnZ0d3ZpeWVkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
 
 <ul>
 <li>🌱 I’m currently learning: <b>Kotlin & Workflow Automation</b></li>
