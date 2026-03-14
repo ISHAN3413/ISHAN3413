@@ -1,5 +1,5 @@
 
-![logo](Github_Banner.png)
+![logo](Github_banner.png)
 <h1 align="center">Hi 👋, I'm Ishan Agarwal</h1>
 <h3 align="center">Android Developer building apps with Kotlin and solving DSA problems with C++</h3>
 
